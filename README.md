@@ -103,15 +103,14 @@ This example shows how to add two buttons or more in the message, where each but
 keyboard = {"inline_keyboard": [[{"text": '• Dev •', "url": 'https://t.me/t_4_z'}],[{"text": '• Dev •', "url": 'https://t.me/t_4_z'}]]}
 ```
 
-Finally, you must add the following code to run your bot:
+# Finally, you must add the following code to run your bot:
 
 ```python
 bot.RunHClient()
 ```
 
-#Thanks for your use, my first module in my programming career.
+# Thanks for your use, my first module in my programming career.
 
-#Dev: [Hussam Fawzi](https://t.me/t_4_z)
+# Dev: [Hussam Fawzi](https://t.me/t_4_z)
 ```
-![Repository views](https://img.shields.io/github/views/sythontm/HusBot)
 
