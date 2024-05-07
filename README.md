@@ -11,7 +11,7 @@ pip install -U HusBot
 1. Import the `HClient` class from the module:
 
 ```python
-from HusBot.TeleBuisness import HClient
+from HusBot.TeleBusiness import HClient
 ```
 
 2. Create a client for your business bot:
