@@ -109,9 +109,9 @@ Finally, you must add the following code to run your bot:
 bot.RunHClient()
 ```
 
-Thanks for your use, my first module in my programming career.
+#Thanks for your use, my first module in my programming career.
 
-Dev: [Hussam Fawzi](https://t.me/t_4_z)
+#Dev: [Hussam Fawzi](https://t.me/t_4_z)
 ```
-
+![Repository views](https://img.shields.io/github/views/sythontm/HusBot)
 
